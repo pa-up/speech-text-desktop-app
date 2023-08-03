@@ -10,9 +10,9 @@
 ボタン「更新」を押すと、録音が一時停止し、数秒程度で文字起こしが行われます。
 <br>
 文字起こしが完了したら、再度録音が開始されます。
-<br><br>
 
 <h2>アプリ使用の参考動画</h2>
-https://github.com/pa-up/speech-text-desktop-app/assets/116175325/1c002c5a-8c17-4385-b8e8-9bd54e1388c0
 
+
+https://github.com/pa-up/speech-text-desktop-app/assets/116175325/65cff075-a9e5-465d-9574-b3cf85c5020e
 
